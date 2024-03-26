@@ -18,7 +18,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-**api**
+**api**write_data //提交一个表单写入到data.db
 
 ```
 read_and_log  //读取日志data.db的内容写出到txt中
