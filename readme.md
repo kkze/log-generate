@@ -3,11 +3,15 @@
 **命令行输入**
 
 ```powershell
-pip install -r requirements.txt 
+py -3 -m venv .venv
 ```
 
 ```powershell
- .venv\Scripts\activate
+.venv\Scripts\activate
+```
+
+```powershell
+pip install -r requirements.txt 
 ```
 
 ```powershell
